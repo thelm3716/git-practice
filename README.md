@@ -8,3 +8,8 @@
 ```
 git init
 ```
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
